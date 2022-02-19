@@ -5,3 +5,4 @@ format: jb-book
 root: intro
 chapters:
 - file: create_dataframe
+- file: create_dataframe2
