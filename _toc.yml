@@ -7,4 +7,5 @@ chapters:
 - file: create_dataframe
 - file: create_dataframe_orderbook
 - file: resample
+- file: visualize_orderbooks
 - file: acceleration
