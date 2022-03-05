@@ -3,3 +3,4 @@ nest_asyncio
 pandas
 plotly
 pybotters
+pandarallel
