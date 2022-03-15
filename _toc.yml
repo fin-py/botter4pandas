@@ -10,4 +10,6 @@ chapters:
 - file: convert_orderbook2tidydata
 - file: resample
 - file: visualize_orderbooks
+- file: visualize_orderbooks_contour
+- file: visualize_orderbooks_tardis
 - file: acceleration
