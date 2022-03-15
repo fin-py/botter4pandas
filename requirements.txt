@@ -4,3 +4,4 @@ pandas
 plotly
 pybotters
 pandarallel
+swifter
