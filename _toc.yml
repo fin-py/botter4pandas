@@ -5,9 +5,9 @@ format: jb-book
 root: intro
 chapters:
 - file: create_dataframe
-- file: index
+- file: indexer
 - file: tidydata
-- file: create_dataframe_orderbook
+- file: convert_orderbook2tidydata
 - file: resample
 - file: visualize_orderbooks
 - file: acceleration
